@@ -10,7 +10,7 @@ namespace GameChatGpt
     {
         public static void Main(string[] args)
         {
-            // Переменные состояния игрыlll
+            // Переменные состояния игры
             int playerPosition = 0;
             bool isGameOver = false;
 
