@@ -10,7 +10,7 @@ namespace GodotName
     {
         static void Main(string[] args)
         {
-            double a = 1, b = 1, c = 1, d = 1;
+            double a = 1, b = 1, c = 1, d = 2;
             a -= 1;    
             b += 1;
             c /= 2;
