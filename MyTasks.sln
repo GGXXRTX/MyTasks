@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tasks.1.9_ChatGptCode", "Ta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tasks.2.0_foreach", "Tasks.2.0_foreach\Tasks.2.0_foreach.csproj", "{1E6CED62-E9CA-475D-9B52-4FC3673087EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TasksMyRepetition", "TasksMyRepetition\TasksMyRepetition.csproj", "{5D016564-8E15-43FA-ACFC-483A508E4971}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -97,6 +99,10 @@ Global
 		{1E6CED62-E9CA-475D-9B52-4FC3673087EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E6CED62-E9CA-475D-9B52-4FC3673087EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E6CED62-E9CA-475D-9B52-4FC3673087EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D016564-8E15-43FA-ACFC-483A508E4971}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D016564-8E15-43FA-ACFC-483A508E4971}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D016564-8E15-43FA-ACFC-483A508E4971}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D016564-8E15-43FA-ACFC-483A508E4971}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -116,6 +122,7 @@ Global
 		{8F0E22A2-8447-4DEB-A2D2-CD461952C3D1} = {9C066664-0CCD-4A7C-BDF1-5BC5FF109389}
 		{2DDC29C4-94A7-4353-A531-800284B34A97} = {C3A117AE-8563-47E9-88CD-D23ACAF9767A}
 		{1E6CED62-E9CA-475D-9B52-4FC3673087EB} = {9C066664-0CCD-4A7C-BDF1-5BC5FF109389}
+		{5D016564-8E15-43FA-ACFC-483A508E4971} = {C3A117AE-8563-47E9-88CD-D23ACAF9767A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {804F7106-7465-40FE-9309-F522EBCB4D8E}
