@@ -41,6 +41,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TasksMyRepetition.1.1", "Ta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TasksMyRepetition.1.2", "TasksMyRepetition.1.2\TasksMyRepetition.1.2.csproj", "{63506D91-C7B7-4C14-B830-320D12A63E0D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TasksMyRepetition.1.3_ChatGpt", "TasksMyRepetition.1.3\TasksMyRepetition.1.3_ChatGpt.csproj", "{10340684-24DD-4031-9D18-1C4C1D62DF07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TasksMyRepetition.1.4", "TasksMyRepetition.1.4\TasksMyRepetition.1.4.csproj", "{25DE36F4-F593-4991-B82F-0D441AE3B09D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -115,6 +119,14 @@ Global
 		{63506D91-C7B7-4C14-B830-320D12A63E0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63506D91-C7B7-4C14-B830-320D12A63E0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63506D91-C7B7-4C14-B830-320D12A63E0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10340684-24DD-4031-9D18-1C4C1D62DF07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10340684-24DD-4031-9D18-1C4C1D62DF07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10340684-24DD-4031-9D18-1C4C1D62DF07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10340684-24DD-4031-9D18-1C4C1D62DF07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25DE36F4-F593-4991-B82F-0D441AE3B09D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25DE36F4-F593-4991-B82F-0D441AE3B09D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25DE36F4-F593-4991-B82F-0D441AE3B09D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25DE36F4-F593-4991-B82F-0D441AE3B09D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -137,6 +149,8 @@ Global
 		{5D016564-8E15-43FA-ACFC-483A508E4971} = {C3A117AE-8563-47E9-88CD-D23ACAF9767A}
 		{C2BE8E14-98FC-464F-B67F-CD3F5B662520} = {C3A117AE-8563-47E9-88CD-D23ACAF9767A}
 		{63506D91-C7B7-4C14-B830-320D12A63E0D} = {C3A117AE-8563-47E9-88CD-D23ACAF9767A}
+		{10340684-24DD-4031-9D18-1C4C1D62DF07} = {C3A117AE-8563-47E9-88CD-D23ACAF9767A}
+		{25DE36F4-F593-4991-B82F-0D441AE3B09D} = {C3A117AE-8563-47E9-88CD-D23ACAF9767A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {804F7106-7465-40FE-9309-F522EBCB4D8E}
